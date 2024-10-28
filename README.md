@@ -1,5 +1,16 @@
 # Hello There, I am Nikesyg
+```
+If u ask why my username in github is "Nikesyg2" not just "Nikesyg" by remove the number 2. Well its complicated.
 
+Last year nigga, i had blinded by the money:
+Someone ask a price for my Github Account (Nikesyg), he needed 'cause he want an old Github Account, that is my first account in Github, Nikesyg (R.I.P 2021 - 2023).
+Of course the price is not expensive too, but well, i selled Nikesyg 'cause i need money in that time (lmao).
+So i got the money and s/he got my account. In this year 2024, i want to make a new account in github, so i created it and this account, Nikesyg2 is born.
+
+When I was still using the Nikesyg (first) account, my name was actually already on the rise. However, I sold it instead.
+I really regret selling my first account, because there are many memories I made with that first account.
+Therefore, to remember him, I created my second account username with the name Nikesyg2. Thanks to read my stories btw.
+```
 <div align="center">
   <p>
     <a href="https://github.com/Nikesyg2">
