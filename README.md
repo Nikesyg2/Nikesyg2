@@ -35,9 +35,45 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikesyg2&show_icons=true&locale=en" alt="nikesyg2" /></p>
 
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vej37cnvco43q5fmj5lfcwjrty&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=3500f5&bar_color_cover=false">
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vej37cnvco43q5fmj5lfcwjrty">
+</p>
+
+**🐱 My GitHub Data** 
+
+> 📦 541 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+HTML                            2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   
+CSS                             2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░    
+Javascript                      1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░    
+Python                          59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░    
+C                               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░    
+``` 
+ Last Updated on 06/03/2026 20:15:07 UTC
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikesyg2&show_icons=true&locale=en&layout=compact" alt="nikesyg2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikesyg2&show_icons=true&locale=en" alt="nikesyg2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikesyg2&" alt="nikesyg2" /></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
